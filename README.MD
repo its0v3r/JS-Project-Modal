@@ -10,3 +10,6 @@ This project is heavily based on John Smilga's Modal project on his HTML/CSS/JS 
 
 -   Functionality to open and close the Modal window;
 -   Know more about capybaras!
+
+# Project demo
+[Click here](https://its0v3r-js-project-modal.netlify.app/html/) to check a demo of this project!
